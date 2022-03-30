@@ -1,0 +1,43 @@
+section {
+    background-color: yellow;
+}
+
+h1 {
+    background-color: aqua;
+}
+
+h2 {
+    background-color: coral;
+}
+
+.pojazdy {
+    background-color: blueviolet;
+}
+
+.marki {
+    background-color: fuchsia;
+}
+
+.main-list {
+    background-color: chartreuse;
+}
+
+#item1 {
+    color: deeppink
+}
+
+#item2 {
+    color: cornflowerblue
+}
+
+#item3 {
+    color: khaki
+}
+
+#item4 {
+    color: gold
+}
+
+#item5 {
+    color: seagreen
+}
